@@ -255,7 +255,7 @@ export const translations = {
   },
   sv: {
     translation: {
-      now: "just nu",
+      now: "nu",
       second_ago: "__count__ sekund sedan",
       second_ago_plural: "__count__ sekunder sedan",
       second_in: "om __count__ sekund",
@@ -271,7 +271,15 @@ export const translations = {
       day_ago: "__count__ dag sedan",
       day_ago_plural: "__count__ dagar sedan",
       day_in: "om __count__ dag",
-      day_in_plural: "om __count__ dagar"
+      day_in_plural: "om __count__ dagar",
+      month_ago: "__count__ månad sedan",
+      month_ago_plural: "__count__ månader sedan",
+      month_in: "om __count__ månad",
+      month_in_plural: "om __count__ månader",
+      year_ago: "__count__ år sedan",
+      year_ago_plural: "__count__ år sedan",
+      year_in: "om __count__ år",
+      year_in_plural: "om __count__ år"
     }
   },
   da: {
