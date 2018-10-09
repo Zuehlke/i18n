@@ -87,6 +87,35 @@ export const translations = {
       year_in_plural: "en __count__ años"
     }
   },
+  fi: {
+    translation: {
+      now: "Nyt",
+      second_ago: "__count__ sekuntti sitten",
+      second_ago_plural: "__count__ sekunttia sitten",
+      second_in: " __count__ sekunnin kuluttua",
+      second_in_plural: " __count__ sekunttien kuluttua",
+      minute_ago: "__count__ minuutti sitten",
+      minute_ago_plural: "__count__ minuuttia sitten",
+      minute_in: " __count__ minuutin kuluttua",
+      minute_in_plural: " __count__ minuuttien kuluttua",
+      hour_ago: "__count__ tunti sitten",
+      hour_ago_plural: "__count__ tuntia sitten",
+      hour_in: " __count__ tunnin kuluttua",
+      hour_in_plural: " __count__ tunnin kuluttua",
+      day_ago: "__count__ päivä sitten",
+      day_ago_plural: "__count__ päiviä sitten",
+      day_in: " __count__ päivän kuluttua",
+      day_in_plural: "__count__ päivien kuluttua",
+      month_ago: "__count__ kuukausi sitten",
+      month_ago_plural: "__count__ kuukausia sitten",
+      month_in: " __count__ kuukauden kuluttua",
+      month_in_plural: " __count__ kuukausien kuluttua",
+      year_ago: "__count__ vuosi sitten",
+      year_ago_plural: "__count__ vuosia sitten",
+      year_in: " __count__ vuoden kuluttua",
+      year_in_plural: " __count__ vuosien kuluttua"
+    }
+  },
   it: {
     translation: {
       now: "adesso",
