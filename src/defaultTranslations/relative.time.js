@@ -295,7 +295,7 @@ export const translations = {
       day_in_plural: "om __count__ dage"
     }
   },
-  no: {
+  nn: {
     translation: {
       now: "akkurat nå",
       second_ago: "__count__ sekund siden",
@@ -313,7 +313,15 @@ export const translations = {
       day_ago: "__count__ dag siden",
       day_ago_plural: "__count__ dager siden",
       day_in: "om __count__ dag",
-      day_in_plural: "om __count__ dager"
+      day_in_plural: "om __count__ dager",
+      month_ago: "__count__ en måned siden",
+      month_ago_plural: "__count__ flere måneder siden",
+      month_in: "I løpet av en __count__ måned",
+      month_in_plural: "I løpet av   __count__ måneder",
+      year_ago: "__count__ et år siden",
+      year_ago_plural: "__count__ flere å siden",
+      year_in: "I løpet av ett år __count__ år",
+      year_in_plural: "på flere __count__ år"
     }
   },
   ja: {
