@@ -294,35 +294,6 @@ export const translations: DefaultTranslations = {
       year_in_plural: "po __count__ metų"
     }
   },
-  lt: {
-    translation: {
-      now: 'šiuo metu',
-      second_ago: 'prieš __count__ sekundę',
-      second_ago_plural: 'prieš __count__ sekundes',
-      second_in: 'po __count__ sekundės',
-      second_in_plural: 'po __count__ sekundžių',
-      minute_ago: 'prieš __count__ minutę',
-      minute_ago_plural: 'prieš __count__ minutes',
-      minute_in: 'po __count__ minutės',
-      minute_in_plural: 'po __count__ minučių',
-      hour_ago: 'prieš __count__ valandą',
-      hour_ago_plural: 'prieš __count__ valandas',
-      hour_in: 'po __count__ valandos',
-      hour_in_plural: 'po __count__ valandų',
-      day_ago: 'prieš __count__ dieną',
-      day_ago_plural: 'prieš __count__ dienas',
-      day_in: 'po __count__ dienos',
-      day_in_plural: 'po __count__ dienų',
-      month_ago: 'prieš __count__ mėnesį',
-      month_ago_plural: 'prieš __count__ mėnesius',
-      month_in: 'po __count__ mėnesio',
-      month_in_plural: 'po __count__ mėnesių',
-      year_ago: 'prieš __count__ metus',
-      year_ago_plural: 'prieš __count__ metus',
-      year_in: 'po __count__ metų',
-      year_in_plural: 'po __count__ metų'
-    }
-  },
   nl: {
     translation: {
       now: "zonet",
